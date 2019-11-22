@@ -1,0 +1,10 @@
+{
+    "development" : {
+        "port" : 4242,
+        "db" : {
+            "host" : "127.0.0.1",
+            "port" : 27042,
+            "dbName" : "test"
+        }
+    }
+}
